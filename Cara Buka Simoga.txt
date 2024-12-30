@@ -1,0 +1,12 @@
+Mulmedia Pembelajaran Simoga
+(Literasi Moderasi Bergama)
+
+Disusun oleh Arwanul Mahyum, S.Pd.I
+Guru SDN Kemirilor, Kemiri, Purworejo
+
+Aplikasi ini bisa dibuka offline atau online.
+Syaratnya harus mengkopi semua file dalam folder ini ke dalam laptop.
+Jika offline untuk video dan game tidak bisa dijalankan.
+
+Cara membuka Simoga cukup mudah yakni klik file "index" dalam folder ini.
+Semoga bermanfaat.
